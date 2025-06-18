@@ -1,0 +1,29 @@
+{
+  "name": "medium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "lint": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SATYAPRAKASH1419/Medium-Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SATYAPRAKASH1419/Medium-Blog/issues"
+  },
+  "homepage": "https://github.com/SATYAPRAKASH1419/Medium-Blog#readme",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "lint-staged": "^16.1.2",
+    "prettier": "^3.5.3"
+  }
+  
+}
